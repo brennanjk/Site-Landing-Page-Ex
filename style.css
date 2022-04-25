@@ -20,7 +20,11 @@ body {
 ul {
     display: flex;
     font-size: 18px;
-    color: #bbbbbb;
     list-style: none;
     gap: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #bbbbbb;
 }
