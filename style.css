@@ -28,3 +28,8 @@ a {
     text-decoration: none;
     color: #bbbbbb;
 }
+
+.container-top {
+    display: flex;
+    background-color: #1f2937
+}
