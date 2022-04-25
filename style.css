@@ -1,3 +1,15 @@
+.header {
+    display: flex;
+    background-color: #1f2937;
+}
+
 .header-logo {
-    font-size: 60px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    font-size: 18px;
+    color: #e5e7eb;
+    list-style: none;
 }
