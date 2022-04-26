@@ -138,4 +138,10 @@ button {
 
 .call-to-action {
     display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.call-to-action .sign-up-buttons {
+    margin-left: auto;
 }
