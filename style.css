@@ -66,3 +66,17 @@ button {
     width: 100px;
     height: 25px;
 }
+
+.container-mid-upper {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-boxes {
+    display: flex;
+}
+
+.info-box {
+    display: flex;
+    flex-direction: column;
+}
