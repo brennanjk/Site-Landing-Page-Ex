@@ -56,3 +56,13 @@ img {
     width: 400px;
     height: auto;
 }
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+}
