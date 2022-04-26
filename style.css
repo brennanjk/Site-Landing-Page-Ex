@@ -1,13 +1,13 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header {
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header-logo {
