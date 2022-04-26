@@ -109,9 +109,11 @@ button {
     border-radius: 20px;
 }
 
-.container-mid-upper {
+.container-mid-lower {
     display: flex;
     flex-direction: column;
+    background: #e5e7eb;
+    padding: 100px 250px;
 }
 
 #quote {
