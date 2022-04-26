@@ -129,3 +129,16 @@ button {
     align-self: flex-end;
     margin-top: 0;
 }
+
+.container-bottom {
+    display: flex;
+    margin: 150px 300px;
+    background: #3882f6;
+    padding: 100 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action {
+    display: flex;
+}
