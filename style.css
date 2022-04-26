@@ -131,12 +131,9 @@ button {
 }
 
 .container-bottom {
-    display: flex;
-    margin: 150px 300px;
+    margin: 100px 200px;
     background: #3882f6;
-    padding: 100 250px;
-    justify-content: center;
-    align-items: center;
+    padding: 40px 150px;
 }
 
 .call-to-action {
