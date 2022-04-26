@@ -80,3 +80,13 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+.info-text,
+.subtext {
+    color: #1f2937
+}
+
+.info-text {
+    font-size: 36px;
+    font-weight: bolder;
+}
