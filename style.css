@@ -47,7 +47,8 @@ a {
     color: #f9faf8;
 }
 
-#hero-statement-2 {
+#hero-statement-2,
+.action-text {
     font-size: 24px;
     color: #e5e7eb;
 }
@@ -59,12 +60,19 @@ img {
 
 button {
     background-color: #3882f6;
-    border: none;
     color: white;
     font-weight: bold;
     border-radius: 10px;
     width: 100px;
     height: 25px;
+}
+
+.hero-container button {
+    border: none
+}
+
+.call-to-action button {
+    border-color: white;
 }
 
 .container-mid-upper {
