@@ -4,7 +4,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header {
+.header,
+.footer {
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
@@ -159,4 +160,8 @@ button {
 
 .action-text p {
     line-height: 15%;
+}
+
+.footer {
+    color: #e5e7eb;
 }
