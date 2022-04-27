@@ -142,6 +142,7 @@ button {
     margin: 100px 200px;
     background: #3882f6;
     padding: 40px 150px;
+    border-radius: 10px;
 }
 
 .call-to-action {
