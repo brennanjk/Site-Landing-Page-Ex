@@ -153,3 +153,7 @@ button {
 .call-to-action .sign-up-buttons {
     margin-left: auto;
 }
+
+.action-text p {
+    line-height: 15%;
+}
